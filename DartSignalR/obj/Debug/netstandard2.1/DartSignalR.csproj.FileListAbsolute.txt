@@ -1,0 +1,10 @@
+D:\Git\Github\DartSignalR\DartSignalR\obj\Debug\netstandard2.1\DartSignalR.csproj.AssemblyReference.cache
+D:\Git\Github\DartSignalR\DartSignalR\obj\Debug\netstandard2.1\DartSignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Github\DartSignalR\DartSignalR\obj\Debug\netstandard2.1\DartSignalR.AssemblyInfoInputs.cache
+D:\Git\Github\DartSignalR\DartSignalR\obj\Debug\netstandard2.1\DartSignalR.AssemblyInfo.cs
+D:\Git\Github\DartSignalR\DartSignalR\obj\Debug\netstandard2.1\DartSignalR.csproj.CoreCompileInputs.cache
+D:\Git\Github\DartSignalR\DartSignalR\bin\Debug\netstandard2.1\DartSignalR.deps.json
+D:\Git\Github\DartSignalR\DartSignalR\bin\Debug\netstandard2.1\DartSignalR.dll
+D:\Git\Github\DartSignalR\DartSignalR\bin\Debug\netstandard2.1\DartSignalR.pdb
+D:\Git\Github\DartSignalR\DartSignalR\obj\Debug\netstandard2.1\DartSignalR.dll
+D:\Git\Github\DartSignalR\DartSignalR\obj\Debug\netstandard2.1\DartSignalR.pdb

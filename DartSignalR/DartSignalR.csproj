@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Nullable>enable</Nullable>
+		<PackageId>DartSignalR</PackageId>
+		<PackageTags>SIGNALR;DART;HUB</PackageTags>
+		<Title>DartSignalR</Title>
+		<Authors>schaban.bochi@outlook.com</Authors>
+		<Description>Convert SignalR hub to dart class to use it with client code</Description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageProjectUrl>https://github.com/SchabanBo/DartSignalR</PackageProjectUrl>
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/SchabanBo/DartSignalR</RepositoryUrl>
+		<Authors>Schaban Bochi</Authors>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="..\README.md" Pack="true" PackagePath="\"/>
+	</ItemGroup>
+</Project>

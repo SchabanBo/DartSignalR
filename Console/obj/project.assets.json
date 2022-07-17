@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DartSignalR/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DartSignalR.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DartSignalR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DartSignalR/1.0.0": {
+      "type": "project",
+      "path": "../DartSignalR/DartSignalR.csproj",
+      "msbuildProject": "../DartSignalR/DartSignalR.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DartSignalR >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Schab\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Git\\Github\\DartSignalR\\Console\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "D:\\Git\\Github\\DartSignalR\\Console\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Schab\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\Github\\DartSignalR\\Console\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Schab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/hUV3WW73XsBALSZ2Zk7mmVdt8SnYy2rdEGRdTzcjWQibaETJ61/api": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Git\\Github\\DartSignalR\\DartSignalR\\DartSignalR.csproj": {
+              "projectPath": "D:\\Git\\Github\\DartSignalR\\DartSignalR\\DartSignalR.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
